@@ -5,7 +5,7 @@ const Task_1 = () => {
   const data = [
     {id: 1, name: 'ACIDITY'},
     {id: 2, name: 'AHU'},
-    {id: 3, name: 'ALGAEasdfghasfssfsfsffsfsfsfs'},
+    {id: 3, name: 'ALGAE'},
     {id: 4, name: 'ALKALINITY'},
     {id: 5, name: 'ALUMINIUM'},
     {id: 6, name: 'AMINE'},
