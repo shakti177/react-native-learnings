@@ -12,7 +12,7 @@ const Task_1 = () => {
     {id: 7, name: 'AMMONIA'},
     {id: 8, name: 'AQUACULTURE'},
     {id: 9, name: 'ARSENIC'},
-    {id: 10, name: 'BIOCIDE'},
+    {id: 10, name: 'BIOCIDE'}, 
     {id: 11, name: 'BOILER'},
     {id: 12, name: 'BROMINE'},
     {id: 13, name: 'PHENOLPHTHALEIN'},
